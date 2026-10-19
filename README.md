@@ -20,6 +20,8 @@ Outside of work, I spend a lot of time with home lab infrastructure, self hosted
 
 A Windows based MCP gateway for visibility, reporting, and administration across Plex, Tautulli, Sonarr, Radarr, and Lidarr.
 
+**Project status (October 2026):** I've stepped away from active development of MediaStack Control Gateway for the time being, but I'm more than happy to answer questions about it. I'm looking forward to my next project.
+
 ### [Microsoft Teams Membership Audit](https://github.com/plutoniumshore-scripts/Microsoft-Teams-Membership-Audit)
 
 A PowerShell utility for auditing and exporting the Microsoft Teams memberships of a specified Microsoft 365 user through Microsoft Graph.
